@@ -1,0 +1,18 @@
+# Disk DescriptorFile
+version=1
+encoding="UTF-8"
+CID=af013fba
+parentCID=af013fba
+createType="twoGbMaxExtentSparse"
+parentFileNameHint="Virtual Disk-cl1-000001.vmdk"
+# Extent description
+RW 8323072 SPARSE "Virtual Disk-cl1-000002-s001.vmdk"
+RW 8323072 SPARSE "Virtual Disk-cl1-000002-s002.vmdk"
+RW 8323072 SPARSE "Virtual Disk-cl1-000002-s003.vmdk"
+RW 8323072 SPARSE "Virtual Disk-cl1-000002-s004.vmdk"
+RW 8323072 SPARSE "Virtual Disk-cl1-000002-s005.vmdk"
+RW 327680 SPARSE "Virtual Disk-cl1-000002-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
